@@ -240,7 +240,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id_user`, `group`, `password`) VALUES
-(16, 'admin', '4209facdda71a98f8c8a942564ad07d4'),
+(16, 'admin', '2e33a9b0b06aa0a01ede70995674ee23'),
 (17, 'wali', '889752dcb81b4ad98ad6e36e9db2cd43'),
 (18, 'wali', '4209facdda71a98f8c8a942564ad07d4'),
 (19, 'wali', '79c765d12709c241fb9004adc46209c7'),

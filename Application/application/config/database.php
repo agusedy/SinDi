@@ -48,9 +48,9 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'mariadb';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'agusedyc';
+$db['default']['password'] = 'db_16036';
 $db['default']['database'] = 'kelas';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
